@@ -2,5 +2,6 @@
 base: https://raw.githubusercontent.com/nonflux/tmp-8976-url-base/9f697cd33e91f45e3edb295d738cb1c93304e5da/b8978/harness/inner.yaml#sha256=a2d51a2f0a36cf49baa88d351f3d8e96e531b99be18a1bdabab7de6f99551f85
 plugins:
   - plugins/outer_plug
+  - plugins/outer_two
 allowed_remote_resources:
   - https://raw.githubusercontent.com/nonflux/tmp-8976-url-base/
